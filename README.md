@@ -1,6 +1,4 @@
-THE FOLLOWING REPO IS ENTIRELY GENERATED AND MANTAINED BY AI
-
-# Food and Weight Tracking System
+# Bot
 
 A Telegram chatbot system that enables users to track their food intake, exercise, and weight. The system calculates theoretical weight based on Basal Metabolic Rate (BMR), food intake, and exercise logs, adjusts theoretical weights with actual weigh-ins, and provides historical data and future projections.
 
